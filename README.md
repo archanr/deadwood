@@ -1,5 +1,7 @@
 # Deadwood is a board game created by CheapAss games.
+
 ## Created by Archan Rupela and Ivan Chuprinov in Winter 2019
+## Written in Java
 
 ### Instructions
 
